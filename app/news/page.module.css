@@ -1,0 +1,8 @@
+.newsItems {
+  display: flex;
+  justify-content: space-between;
+}
+.newsItems li {
+  list-style: none;
+  margin: 10px;
+}
